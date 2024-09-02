@@ -2,7 +2,7 @@
 
 # The Whiskey Platform
 
-The Whiskey Platform is my personal, mostly-open-source effort to apply my ethos--of making life easier and brighter--to my own life.
+Hi, I'm [Matt Wyskiel](https://github.com/mattwyskiel) and the Whiskey Platform is my personal, mostly-open-source effort to apply my ethos--of making life easier and brighter--to my own life.
 
 The premise is: use the point-in-time messages and notifications I receive to execute meaningful actions with them.
 
