@@ -8,7 +8,7 @@ The premise is: use the point-in-time messages and notifications I receive to ex
 
 Here's an incredibly simplified diagram to show you what I mean:
 
-![architecture diagram](https://images.ctfassets.net/zh68lrw89i3n/6NNqOu1wDlxoBzcqgxlDVm/9d388b8de048a402da1cda5917820869/Whiskey_diagram_export_Aug_28_2024.png)
+![architecture diagram](https://github.com/whiskey-platform/whiskey-core/blob/8da832705b48216004196b42a60f869420ed133b/event-infra/architecture.png?raw=true)
 
 So, as examples for use cases for this system.:
 - When I get an email receipt, it can be stored automatically into my Documents for easy retrieval, and catalogued as a purchase for later reference
